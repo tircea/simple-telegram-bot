@@ -16,7 +16,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/tircea/simple-telegram-bot.git
-cd your_project
+cd simple-telegram-bot
 ```
 Install the required dependencies using pip:
 ```bash
