@@ -50,6 +50,11 @@ The format is as follows:
     "Physics": [
         ["ohmslaw", "ohmsLaw", false],
         ["lawenergy", "energyConserv", false],
+        ["coulomblaw", ["F", "n1 * (n2 * n3) / n4 ** 2", 4], true]
+        ...
+    ],
+    "Mathematic": [
+        ...
     ]
 }
 ```
