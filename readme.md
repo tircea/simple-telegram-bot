@@ -79,7 +79,7 @@ class Geography:
     def __init__(self, loaded_lang):
         self.loaded_lang = loaded_lang
         
-   def solveFunc(self, value):
+   def solveFunc(self, value): # Value - is value recieved from user, message
         return getLangText(self.loaded_lang, "lang_key"), [], "final" # First value is message, second is keyboard to return, last is bot state, if we done with solving we can return "final", if we need some additional data from user we can return "task"
 ```
 ## Usage
