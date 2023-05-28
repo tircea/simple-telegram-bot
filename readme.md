@@ -74,6 +74,9 @@ Here is an example of how the class should be structured:
 class Geography:
     def __init__(self, loaded_lang):
         self.loaded_lang = loaded_lang
+        
+   def solveFunc(self, value):
+        return getLangText(self.loaded_lang, "lang_key"), [], "final" # First value is message, second is keyboard to return, last is bot state, if we done with solving we can return "final", if we need some additional data from user we can return "task"
 ```
 ## Usage
 
