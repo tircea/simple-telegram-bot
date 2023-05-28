@@ -1,0 +1,112 @@
+{
+    "physics": "Physics",
+    "mathematic": "Math",
+    "geography": "Geography",
+    "philology": "Philology",
+    "general": "General",
+    "back": "Back",
+    "cat_select": "Choose a category",
+    "error_data":  "An error occurred, you may have entered the data in the wrong format! Try again.",
+    "error_key": "An error has occurred, select options using the keyboard!",
+
+    "ohmslaw": "Ohm's law",
+    "lawenergy": "Law of conservation of energy",
+    "coulomblaw": "Coulomb's law",
+    "stefan": "Stefan-Boltzmann law",
+
+    "math1": "Formula for calculating the area of a triangle using the vector product",
+    "math2": "Formula for calculating the length of a segment between two points on a plane",
+    "math3": "Area of a triangle",
+    "math4": "Area of Trapezium",
+    "math5": "Deduce the number π",
+
+    "geog1": "Which continent is the largest by area",
+    "geog2": "The city with the largest population in the world",
+    "geog3": "Two countries with the largest number of water reservoirs in the world.",
+    "geog4": "Find the distance between two points A (x1, y1) and B (x2, y2), if their coordinates are known.",
+
+    "philol1": "Find the ten longest words in the text.",
+    "philol2": "List all unique words in the text",
+    "philol3": "Find all words that are palindromes",
+    "philol4": "Find the longest words that start with a vowel",
+    "philol5": "Find the most frequently used letter in the text.",
+    "philol6": "Find the longest words that do not contain vowels.",
+
+    "gen1": "What year is it now?",
+    "gen2": "How many days until the New Year?",
+    "gen3": "Say an inspirational quote",
+    "gen4": "History game.",
+    "gen5": "What to cook for dinner tonight?",
+    "gen6": "Who are the Illuminati?",
+    "gen7": "Why did TikTok become so popular?",
+    "gen8": "How to make a million?",
+    "gen9": "How many characters are in the Arabic alphabet?",
+    "gen10": "Is cryptocurrency safe?",
+
+    "q1": "Who?",
+    "q2": "Where?",
+    "q3": "When?",
+    "q4": "Why?",
+    "q5": "What?",
+
+    "illuminati": "Illuminati (lat. illuminati - \"educated\", \"enlightened\") is a secret society founded with the goal of achieving the mastery of man over his passions through education and moral improvement.\nAlso known as the \"Society of the Bavarian Illuminati\" and \"Illuminati Weishaupt.\" In 1785, the activity of the society was banned in Bavaria.",
+    "tiktok": "TikTok has become popular thanks to a set of convenient functions that are tailored to the needs of the user. The developers have made a simple, but interesting and functional service that can be used by everyone. And speed and variety have become a feature of the application.",
+    "arab": "The Arabic alphabet (sometimes Arabic or Elm) is an alphabet used to write Arabic and (in a slightly modified form) some other languages, including Persian, Urdu and some Turkic languages. It consists of 28 letters. The Arabic script is written from right to left.\n\nThe Arabic alphabet plays an important role in the world as the alphabet of Islam and the Qur'an. It spread with the spread of Islam. Today, the Arabic script is the most widely used in the world after the Latin alphabet. The following languages use the Arabic alphabet: Arabic, Persian , Pashto, Kurdish, Urdu, Malay, Javanese.",
+    "coin": "Cryptocurrencies are decentralized digital money that are designed to be used over the Internet. They are not issued or controlled by any government or other central authority, as they are managed by peer-to-peer networks of computers running special open source software code. In essence, cryptocurrency is an alternative to traditional physical government-issued money.",
+    "work": "WORK, that's all",
+
+    "food1": "Potato and minced meat casserole",
+    "food2": "Potatoes with sausages and tomatoes",
+    "food3": "Biscuits with potatoes",
+    "food4": "Potatoes with chicken in sour cream sauce",
+    "food5": "Chicken casserole with pasta and tomatoes",
+
+    "citat1": "Life is what happens to you while you're making plans. John Lennon",
+    "citat2": "Aim not for success, but for the values it gives. Albert Einstein",
+    "citat3": "At first dreams seem impossible, then improbable, then inevitable. Christopher Reeve",
+    "citat4": "The best revenge is a huge success. Frank Sinatra",
+    "citat5": "Talent is a gift that cannot be taught or learned. Immanuel Kant",
+
+    "cur_year": "This year is ",
+    "n_year": "Days until the new year - ",
+
+    "temp1": "{} met me in {}, it happened {} when we decided {}. To our surprise, we found {}.",
+    "temp2": "{} was {}, {}, in order to {}. He did {}.",
+    "temp3": "It all started when {} decided to go to {}. It was {}. His goal was sincere: {}. There he met {}.",
+    "temp4": "{} woke up {}. It was {}. His goal was simple: {}. He couldn't even imagine what he would meet {}.",
+    "temp5": "{}, being in {}, in {}, realized that he had to do something special. His motivation was {}. So he decided to {}.",
+    "give_answer": "Give an answer to the question ",
+    "task_select": "Select a task:",
+    "what_find": "What to find:",
+    "and": " и ",
+    "you_find": "You are looking for ",
+    "numss": "Specify numbers using a space...\nThese numbers will point to ",
+    "numss2": "Specify the numbers with a space...\nThese numbers will point to the variables in the formula in order!",
+
+    "your_nums": "Your numbers: ",
+    "result": "Result: ",
+
+    "siltok": "Current strength",
+    "naprag": "Voltage",
+    "sopr": "Resistance",
+
+    "eken": "Ekinetic",
+    "epot": "Epotential",
+    "evn": "Eventual",
+
+    "send_text": "Send text to solve this task",
+    "10long": "List of the 10 longest words from the text: ",
+    "uniqwords": "List of all unique words from the text: ",
+    "10long1": "List of the 10 longest words from the text that start with a vowel letter: ",
+    "commonlet": "The most frequent letter in the text: ",
+    "10long2": "List of the 10 longest words from the text that do not contain vowels: ",
+    "palindrome": "List of all palindromes from text: ",
+
+    "pi_num": "Number pi - ",
+    "big_materic": "The largest continent on earth is Eurasia.",
+    "big_city": "The city with the largest population in the world is Shanghai",
+    "2_country": "The two countries that have the largest number of reservoirs in the world - India and China",
+
+
+    "formula_calc": "Calculation formula"
+}

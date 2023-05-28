@@ -1,0 +1,41 @@
+{
+    "Physics": [
+        ["ohmslaw", "ohmsLaw", false],
+        ["lawenergy", "energyConserv", false],
+        ["coulomblaw", ["F", "n1 * (n2 * n3) / n4 ** 2", 4], true],
+        ["stefan", ["P", "n1 * n2 * n3 ** 4", 3], true]
+    ],
+    "Mathematic": [
+        ["math1", ["S", "1/2 * math.fabs(n1 * n2)", 2], true],
+        ["math2", ["AB", "math.sqrt((n1 - n2) ** 2 + (n3 - n4) ** 2)", 4], true],
+        ["math3", ["S", "1/2 * n1 * n2", 2], true],
+        ["math4", ["S", "1/2 * (n1 + n2) * n3", 3], true],
+        ["math5", "piNum", false]
+    ],
+    "Geography": [
+        ["geog1", "materic", false],
+        ["geog2", "city", false],
+        ["geog3", "vodohran", false],
+        ["geog4", ["AB", "math.sqrt((n1 - n2) ** 2 + (n3 - n4) ** 2)", 4], true]
+    ],
+    "Philology": [
+        ["philol1", "longest", false],
+        ["philol2", "uniqWords", false],
+        ["philol3", "palindromes", false],
+        ["philol4", "longestA", false],
+        ["philol5", "letter", false],
+        ["philol6", "longestB", false]
+    ],
+    "General": [
+        ["gen1", "year", false],
+        ["gen2", "nyear", false],
+        ["gen3", "citat", false],
+        ["gen4", "game", false],
+        ["gen5", "food", false],
+        ["gen6", "illuminati", false],
+        ["gen7", "tiktok", false],
+        ["gen8", "million", false],
+        ["gen9", "arab", false],
+        ["gen10", "coin", false]
+    ]
+}
